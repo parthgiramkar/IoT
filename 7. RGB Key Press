@@ -30,5 +30,12 @@ void loop()
 
 
 
+//2 8pin, one to RGB. other to south west of LED Pin slot.
+//enter r for red
+//enter g for gree, and y for yellow
+
+
+
+
 
 
